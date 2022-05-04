@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778300338400",
+    "project_id": "digital-library-e689a",
+    "storage_bucket": "digital-library-e689a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778300338400:android:68261a7d362c036c082085",
+        "android_client_info": {
+          "package_name": "com.example.digitallibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778300338400-n7ae20t96q0pjrlbh9rag2ua9620dgk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFKQbNaAxvKkQEhGFXIlTbdVe66lJANbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778300338400-n7ae20t96q0pjrlbh9rag2ua9620dgk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
